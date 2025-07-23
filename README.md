@@ -6,6 +6,8 @@ A modern, responsive portfolio website showcasing my skills, projects, and exper
 
 🌐 **Live Website**: [https://aarifkhan67.github.io/portfolio](https://aarifkhan67.github.io/portfolio)
 
+> **Note**: Enable GitHub Pages in your repository settings to make the website live.
+
 ## 🎯 About Me
 
 I'm a passionate web developer with expertise in creating modern, responsive websites and web applications. My journey in web development started with a passion for creating beautiful, functional websites that solve real-world problems.
